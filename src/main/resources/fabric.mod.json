@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "customchattextkeybind",
+  "version": "${mod_version}",
+  "name": "CustomChatTextKeybind",
+  "description": "A mod that allows you to open a chat with arbitrary text using a custom key.",
+  "icon": "assets/customchattextkeybind/icon.png",
+  "license": "MIT",
+  "authors": [
+    "unidok"
+  ],
+  "contact": {
+    "sources": "https://github.com/unidok/CustomChatTextKeybind"
+  },
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "me.unidok.customchattextkeybind.Mod"
+    ]
+  },
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": "*",
+    "java": ">=11",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
