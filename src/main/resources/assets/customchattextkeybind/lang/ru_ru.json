@@ -1,4 +1,7 @@
 {
   "key.customchattextkeybind.open_chat": "Открыть чат",
-  "category.customchattextkeybind": "Custom Chat Text Keybind"
+  "category.customchattextkeybind": "Custom Chat Text Keybind",
+  "commands.customchattextkeybind.reload_config.success": "Конфиг успешно перезагружен!",
+  "commands.customchattextkeybind.reload_config.failed": "Ошибка загрузки конфига: %s",
+  "commands.customchattextkeybind.set_text.success": "Установлен текст: %s"
 }

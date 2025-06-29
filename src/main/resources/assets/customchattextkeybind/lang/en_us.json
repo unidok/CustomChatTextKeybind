@@ -1,4 +1,7 @@
 {
   "key.customchattextkeybind.open_chat": "Open Chat",
-  "category.customchattextkeybind": "Custom Chat Text Keybind"
+  "category.customchattextkeybind": "Custom Chat Text Keybind",
+  "commands.customchattextkeybind.reload_config.success": "Config successfully reloaded!",
+  "commands.customchattextkeybind.reload_config.failed": "Error loading config: %s",
+  "commands.customchattextkeybind.set_text.success": "Set text: %s"
 }

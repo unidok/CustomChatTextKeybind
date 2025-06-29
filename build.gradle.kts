@@ -4,7 +4,6 @@ plugins {
     id("fabric-loom") version "1.10-SNAPSHOT"
     id("maven-publish")
     id("java")
-    kotlin("jvm")
 }
 
 group = "me.unidok"
