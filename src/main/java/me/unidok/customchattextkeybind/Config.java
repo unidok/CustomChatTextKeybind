@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 
 public class Config {
-    private static final File file = new File(MinecraftClient.getInstance().runDirectory, "config/CustomChatTextKeybind.txt");;
+    private static final File file = new File(MinecraftClient.getInstance().runDirectory, "config/CustomChatTextKeybind.txt");
     private static String text;
 
     public static void setChatText(String text) {
